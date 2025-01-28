@@ -15,3 +15,7 @@ It's impressive how tools like Ollama Open WebUI are making advanced AI models m
 organizations. The ability to run something as sophisticated as DeepSeek R1 locally is both convenient and efficient, empowering users to explore AI without relying on costly infrastructure. 
 Moreover, lowering the barriers for developers and researchers could open the door to innovations in fields we might not typically associate with AI. It’s a testament to how technology can enable 
 creativity and foster unexpected advancements across diverse disciplines.
+
+
+
+YOYO
