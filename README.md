@@ -8,3 +8,10 @@ This piece provides a step-by-step guide on how to run the DeepSeek R1 locally u
 
 
 
+## Comment from Junpapadiamond(ChenJunHsu)
+
+
+It's impressive how tools like Ollama Open WebUI are making advanced AI models more accessible, not just for major tech companies with extensive cloud resources but also for individuals and smaller 
+organizations. The ability to run something as sophisticated as DeepSeek R1 locally is both convenient and efficient, empowering users to explore AI without relying on costly infrastructure. 
+Moreover, lowering the barriers for developers and researchers could open the door to innovations in fields we might not typically associate with AI. It’s a testament to how technology can enable 
+creativity and foster unexpected advancements across diverse disciplines.
